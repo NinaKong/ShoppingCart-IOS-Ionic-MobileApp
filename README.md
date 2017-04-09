@@ -1,2 +1,2 @@
 # ShoppingCart-IOS-Ionic-MobileApp
-This is a shopping cart mobile application using Ionic Framework under IOS
+Shopping cart IOS mobile application using AngularJS and Ionic
